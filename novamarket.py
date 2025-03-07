@@ -5,7 +5,7 @@ import asyncio
 from collections import defaultdict
 import random
 
-TOKEN = 'MTM0MDUwNjkxMjc3MjQ2MDU2NQ.G8xKDJ.VKLMOVuBA_fayhSZsezG1vBpQyOS5rDJma_dhU'
+TOKEN = 'MTM0MDUwNjkxMjc3MjQ2MDU2NQ.GrqSFr.Hz4ybSFTrs6N56YmkTX36tqz5ANmEM7IltXmVQ'
 
 intents = discord.Intents.default()
 intents.message_content = True
