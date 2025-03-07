@@ -1,1 +1,0 @@
-worker: novamarket.py
