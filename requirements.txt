@@ -1,1 +1,1 @@
-pip install discord.py asyncio
+discord.py
